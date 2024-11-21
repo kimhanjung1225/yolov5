@@ -57,25 +57,31 @@ Learn with Python using Google Colaboratory.
 # Verification of YOLOv5 model learning results
 
 confusion_matrix
+
 ![image](https://github.com/user-attachments/assets/9acf15d7-6acd-4a1c-85bc-beb84dbc3c51)
 
 F1_curve
+
 ![image](https://github.com/user-attachments/assets/e4e8fc1e-e37b-426a-8ef1-c8417caf4375)
 
 P_curve
+
 ![image](https://github.com/user-attachments/assets/f4f61341-c9f2-4f20-b47c-eb7d9afdaa10)
 
 R_curve
+
 ![image](https://github.com/user-attachments/assets/c8bf4752-bd01-474c-898e-861f591ad58a)
 
 result
+
 ![image](https://github.com/user-attachments/assets/8e574eb3-9f54-4598-94c9-ded8c5537f6b)
 
-
 train_batch
+
 ![image](https://github.com/user-attachments/assets/98e61455-6922-472c-a86c-e66f25e081f3)
 
 val_batch
+
 ![image](https://github.com/user-attachments/assets/b3a248d9-8a4e-45bf-bf31-791ef37a0081)
 
 # jackson nano video
