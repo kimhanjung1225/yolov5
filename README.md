@@ -2,7 +2,7 @@
 
 # Reason for selecting the topic
 
-Marine debris is emerging as a serious environmental problem worldwide. Every year, millions of tons of trash enter the ocean, threatening the marine ecosystem and having a fatal impact on the survival of sea creatures. To solve this problem, we would like to use YOLOv5 to analyze the type and distribution of marine debris to help solve environmental problems.
+Worldwide, the problem of marine debris is causing many environmental problems. Currently, analyzing and classifying marine debris takes a lot of time and money. I hope that YOLOv5 learning can help improve marine environmental problems through efficient analysis and classification by learning marine debris video data.
 
 ![다운로드](https://github.com/user-attachments/assets/4b1273d7-1e9e-40dd-bf00-eca8d0720773)
 
