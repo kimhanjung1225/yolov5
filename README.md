@@ -84,7 +84,7 @@ val_batch
 
 ![image](https://github.com/user-attachments/assets/b3a248d9-8a4e-45bf-bf31-791ef37a0081)
 
-# jackson nano video
+# jetson nano video
 
 https://github.com/user-attachments/assets/4e5d17fc-bc18-445c-8489-d90912b811cb
 
